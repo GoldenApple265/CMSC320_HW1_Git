@@ -5,3 +5,7 @@ Answer: So multiple people can work on one project
 Q2: What field could data science be applied to? Give an Example.
 
 Answer: Bioinformatics, an interdisciplinary field of science that develops computational methods and software tools for understanding biological data
+
+Q3: What is the difference between Merging and Rebasing?
+
+Answer: Rebase rewrites history while merge applies changes
