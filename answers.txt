@@ -9,3 +9,7 @@ Answer: Bioinformatics, an interdisciplinary field of science that develops comp
 Q3: What is the difference between Merging and Rebasing?
 
 Answer: Rebase rewrites history while merge applies changes
+
+Q4: What are you looking forward to this semester?
+
+Answer: Winter break
